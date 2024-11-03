@@ -6,7 +6,7 @@ import random
 
 # Bot token and channel username (replace with your details)
 BOT_TOKEN = "7993719241:AAE6ItGn4ciaJv8c_Hjwlt01lTqhuqj9j8Q"
-CHANNEL_USERNAME = "@testifychannelbot"
+CHANNEL_USERNAME = "@megasaruku0"
 
 # Initialize bot
 bot = Bot(token=BOT_TOKEN)
